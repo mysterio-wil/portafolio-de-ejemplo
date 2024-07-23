@@ -19,12 +19,15 @@ body {
 .presentacion {
     display: flex;
     align-items: center;
-    margin: 5%;
+    margin: 10% 15%;
     justify-content: space-between;
 }
 
 .presentacion__contenido {
     width: 615px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
 }
 
 .presentacion__contenido__titulo {
