@@ -43,3 +43,15 @@ Ajustando los espacios
 - Definir espaciamento vertical e horizontal;
 - Posicionar los elementos en columna con Flexbox;
 - Utilizar el recurso Gap para espaciar cada elemento hijo.
+
+Curso de HTML y CSS: header, footer y variables CSS
+
+Aulas
+
+01. Preparando el layout del proyecto
+
+Lo que aprendimos en esta aula:
+
+- Funciona la actualización del diseño de un proyecto en Figma;
+- Posicionar los botones según el nuevo diseño mediante display: flex;
+- Realiza la estilización de los botones según el nuevo diseño.
