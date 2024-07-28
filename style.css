@@ -8,7 +8,6 @@
 body {
     background-color:#000;
     color: #f6f6f6;
-
     box-sizing: border-box;
 }
 
@@ -17,9 +16,9 @@ body {
 }
 
 .presentacion {
+    padding: 8% 15%;
     display: flex;
     align-items: center;
-    margin: 10% 15%;
     justify-content: space-between;
 }
 
@@ -83,4 +82,32 @@ body {
     font-family: "Montserrat", sans-serif;
     font-size: 24px;
     font-weight: 400;
+}
+
+.header {
+    background-color: #22D4FD;
+    font-family: "Montserrat", sans-serif;
+    font-size: 24px;
+    color: #000;
+    padding: 24px;
+    text-align: center;
+}
+
+.header__menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}   
+
+
+.header__menu__link {
+    font-size: 18px;
+    color: #333;
+    margin: 0 10px;
+    padding: 10px 15px;
+    text-decoration: none;
+}
+
+.header__menu__link:hover {
+    color: #007bff;
 }
