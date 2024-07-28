@@ -48,10 +48,18 @@ Curso de HTML y CSS: header, footer y variables CSS
 
 Aulas
 
-01. Preparando el layout del proyecto
+01.Preparando el layout del proyecto
 
 Lo que aprendimos en esta aula:
 
 - Funciona la actualización del diseño de un proyecto en Figma;
 - Posicionar los botones según el nuevo diseño mediante display: flex;
 - Realiza la estilización de los botones según el nuevo diseño.
+  
+02.Creando íconos clicables
+
+Lo que aprendimos en esta aula:
+
+- Añadir íconos a los enlaces clicables;
+- Alinear elementos con justify-content;
+- Estilizar elementos al pasar el ratón sobre ellos con el selector hover.
