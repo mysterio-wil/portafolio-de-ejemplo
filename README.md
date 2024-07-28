@@ -79,3 +79,11 @@ Lo que aprendimos en esta aula:
 - Realizar la estilización del encabezado del portafolio;
 - Crear la nueva página HTML "Sobre mí";
 - Desarrollar la navegación entre las páginas "Inicio" y "Sobre mí".
+
+05.Aplicando las Variables CSS
+
+Lo que aprendimos en esta aula:
+
+- Agregar contenido a una nueva página;
+- ¿Qué son las variables CSS?;
+- Cómo personalizar el proyecto aplicando variables CSS.
