@@ -63,3 +63,11 @@ Lo que aprendimos en esta aula:
 - Añadir íconos a los enlaces clicables;
 - Alinear elementos con justify-content;
 - Estilizar elementos al pasar el ratón sobre ellos con el selector hover.
+
+03.Creando el header y footer
+
+Lo que aprendimos en esta aula:
+
+- Crear y estilizar el pie de página de la página;
+- Crear el encabezado de la página;
+- Aplicar los enlaces de navegación a través de la etiqueta `<nav>`.
