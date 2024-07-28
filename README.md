@@ -71,3 +71,11 @@ Lo que aprendimos en esta aula:
 - Crear y estilizar el pie de página de la página;
 - Crear el encabezado de la página;
 - Aplicar los enlaces de navegación a través de la etiqueta `<nav>`.
+
+04.Navegando entre paginas
+
+Lo que aprendimos en esta aula:
+
+- Realizar la estilización del encabezado del portafolio;
+- Crear la nueva página HTML "Sobre mí";
+- Desarrollar la navegación entre las páginas "Inicio" y "Sobre mí".
